@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Daniel Avishid</h1>
 
-<!--
-**DanielAvishid/DanielAvishid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a passionate full-stack developer with experience in building web applications using modern technologies. I specialize in both frontend and backend development, ensuring seamless integration and optimal performance. Currently, I am looking for new job opportunities to further my career.</p>
 
-Here are some ideas to get you started:
+<h3>Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/daniel-avishid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel avishid" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages and Tools:</h3>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,vite,redux,react,nextjs,angular,mongodb,postgres,php,nodejs,express,nestjs,webpack,firebase,e=5"/>
+</div>
