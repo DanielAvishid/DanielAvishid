@@ -8,6 +8,6 @@
 </p>
 
 <h3>Languages and Tools:</h3>
-<div align="right">
-<img src="https://skillicons.dev/icons?i=js,php,cs,dotnet,html,css,sass,tailwind,jquery,vite,redux,react,nextjs,angular,mongodb,mysql,postgres,nodejs,express,nestjs,webpack,firebase,aws,postman,nginx,bun,npm e=5"/>
+<div align="left">
+<img align="right" src="https://skillicons.dev/icons?i=js,php,cs,dotnet,html,css,sass,tailwind,jquery,vite,redux,react,nextjs,angular,mongodb,mysql,postgres,nodejs,express,nestjs,webpack,firebase,aws,postman,nginx,bun,npm e=5"/>
 </div>
