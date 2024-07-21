@@ -9,5 +9,5 @@
 
 <h3>Languages and Tools:</h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,vite,redux,react,nextjs,angular,mongodb,postgres,php,nodejs,express,nestjs,webpack,firebase,e=5"/>
+<img src="https://skillicons.dev/icons?i=php,dotnet,cs,js,html,css,sass,tailwind,jquery,vite,redux,react,nextjs,angular,mongodb,mysql,postgres,nodejs,express,nestjs,webpack,firebase,aws,postman,nginx,bun,npm e=5"/>
 </div>
